@@ -9,8 +9,11 @@ EduCoin is a productivity app that allows students to create an account and star
 ## How I Built It
 EduCoin was built with Swift and Firebase for backend work, like user authentication. 
 
+## Challenges I Faced
+Passing data between the view controllers was the biggest challenge I faced, as the "Educoins" count, as well as time for the timers, needed to be consistent.
+
 ## What's Next for EduCoin
-I hope to add additional features like goal setting or friendly competitions between students to further incentivize productivity.
+I hope to add additional features like goal setting or friendly competitions between students to further incentivize productivity. Additionally, EduCoin can be scaled to make money through partnering with education-oriented companies, like tutoring services or companies that produce online study tools, to advertise their products as student store offerings.
 
 ## Video Demo
 Link to a video demo of EduCoin: https://youtu.be/hkJAJLcReQs.
